@@ -76,9 +76,15 @@
             <artifactId>spring-cloud-starter-zipkin</artifactId>
         </dependency>
         <!--spring-boot-starter-security-->
-        <dependency>
+        <!--<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>-->
+
+        <dependency>
+            <groupId>com.qupeng.springcloud</groupId>
+            <artifactId>35-springcloud-service-auth</artifactId>
+            <version>1.0.0</version>
         </dependency>
 
 
